@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.snolde.s3tools.s3cp.S3cp
+
